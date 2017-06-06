@@ -31,5 +31,6 @@ Optional:
 ```
 ./slack-upload.sh -f /tmp/somefile.txt -c '#mychannel' -s SLACK_API_KEY -n 'Lorem Ipsum' -x 'Hope you find this useful!'
 ```
-[![slack upload](/img/slack-upload.png?raw=true "Slack Upload")
+![slack upload](/img/slack-upload.png?raw=true "Slack Upload")
+
 
